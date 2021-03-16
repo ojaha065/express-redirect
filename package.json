@@ -1,0 +1,17 @@
+{
+  "name": "express-redirect",
+  "version": "1.0.0",
+  "description": "Very simple HTTP request redirector for personal use",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jani Haiko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
